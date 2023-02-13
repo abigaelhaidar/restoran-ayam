@@ -155,7 +155,7 @@ body {
 .about, 
 .menu,
 .contact {
-    padding: 3rem 7% 1.4rem;
+    padding: 3rem 7% 10rem;
 }
 
 .about h2,
@@ -419,9 +419,9 @@ footer .credit a {
 }
 
 /* Handphone */
-@media (max-width: 450px){
+@media (max-width: 400px){
     html{
         font-size: 55%;
-    }
+    }   
 }
 

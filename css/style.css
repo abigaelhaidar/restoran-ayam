@@ -339,6 +339,7 @@ footer .credit a {
 @media (max-width: 768px){
     html{
         font-size: 62.5%;
+        padding: 0rem 7% 10rem;
     }
 
     #hamburger-menu {
